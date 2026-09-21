@@ -102,7 +102,7 @@ def main():
     window_name = 'Hand Effect'
     cv2.namedWindow(window_name, cv2.WINDOW_NORMAL)
     cv2.resizeWindow(window_name, 1280, 720)
-    print("Camera ready ✅ (Press 'q' or ESC in the video window to quit)")
+    print("Camera ready [OK] (Press 'q' or ESC in the video window to quit)")
 
     timestamp = 0
 
